@@ -1,4 +1,4 @@
-# Jambalaya
+# Jorpalaya
 
 Surprisingly simple and easy for such a punchy and impressive meal, this Jambalaya recipe is as great for groups as it
 is comforting. Feel free to improvise with the ingredients.
