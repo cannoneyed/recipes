@@ -3,6 +3,7 @@
 #### staples
 - [one pot orrechiette](./staples/one_pot_orecchiette.md)
 - [clam linguine](./staples/clam_linguine.md)
+- [tomato soup](./staples/tomato_soup.md)
 
 #### american
 - [jambalaya](./american/jambalaya.md)
